@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 柳彬
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: LiuBin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bin
+last_name: Liu
 
 # Status emoji
 status:
